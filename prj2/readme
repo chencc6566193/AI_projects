@@ -1,0 +1,13 @@
+You do not need to compile the code, just run it:
+Example command line to run this program:
+ python game.py 5 3 false
+or
+ python game.py 5 3 true
+
+
+My program contains three subroutines: BFS, A*, Simple A*
+the "true" or "false" is used to indicate whether to run BFS or not.
+
+For my heuristic, please reference: http://www.d.umn.edu/~kvanhorn/cs2511/discussions/heuristics.html 
+
+
